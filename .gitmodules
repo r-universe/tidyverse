@@ -90,3 +90,8 @@
 	path = tidyverse
 	url = https://github.com/tidyverse/tidyverse
 	shallow = true
+[submodule "testthat"]
+	path = testthat
+	url = https://github.com/r-lib/testthat
+	shallow = true
+	branch = v3.0.0
