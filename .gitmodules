@@ -2,94 +2,117 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
+	branch = HEAD
 [submodule "blob"]
 	path = blob
 	url = https://github.com/tidyverse/blob
 	shallow = true
+	branch = HEAD
 [submodule "dbplyr"]
 	path = dbplyr
 	url = https://github.com/tidyverse/dbplyr
 	shallow = true
+	branch = HEAD
 [submodule "dplyr"]
 	path = dplyr
 	url = https://github.com/tidyverse/dplyr
 	shallow = true
+	branch = HEAD
 [submodule "dtplyr"]
 	path = dtplyr
 	url = https://github.com/tidyverse/dtplyr
 	shallow = true
+	branch = HEAD
 [submodule "forcats"]
 	path = forcats
 	url = https://github.com/tidyverse/forcats
 	shallow = true
+	branch = HEAD
 [submodule "ggplot2"]
 	path = ggplot2
 	url = https://github.com/tidyverse/ggplot2
 	shallow = true
+	branch = HEAD
 [submodule "glue"]
 	path = glue
 	url = https://github.com/tidyverse/glue
 	shallow = true
+	branch = HEAD
 [submodule "googledrive"]
 	path = googledrive
 	url = https://github.com/tidyverse/googledrive
 	shallow = true
+	branch = HEAD
 [submodule "googlesheets4"]
 	path = googlesheets4
 	url = https://github.com/tidyverse/googlesheets4
 	shallow = true
+	branch = HEAD
 [submodule "haven"]
 	path = haven
 	url = https://github.com/tidyverse/haven
 	shallow = true
+	branch = HEAD
 [submodule "hms"]
 	path = hms
 	url = https://github.com/tidyverse/hms
 	shallow = true
+	branch = HEAD
 [submodule "lubridate"]
 	path = lubridate
 	url = https://github.com/tidyverse/lubridate
 	shallow = true
+	branch = HEAD
 [submodule "modelr"]
 	path = modelr
 	url = https://github.com/tidyverse/modelr
 	shallow = true
+	branch = HEAD
 [submodule "purrr"]
 	path = purrr
 	url = https://github.com/tidyverse/purrr
 	shallow = true
+	branch = HEAD
 [submodule "readr"]
 	path = readr
 	url = https://github.com/tidyverse/readr
 	shallow = true
+	branch = HEAD
 [submodule "readxl"]
 	path = readxl
 	url = https://github.com/tidyverse/readxl
 	shallow = true
+	branch = HEAD
 [submodule "reprex"]
 	path = reprex
 	url = https://github.com/tidyverse/reprex
 	shallow = true
+	branch = HEAD
 [submodule "rvest"]
 	path = rvest
 	url = https://github.com/tidyverse/rvest
 	shallow = true
+	branch = HEAD
 [submodule "stringr"]
 	path = stringr
 	url = https://github.com/tidyverse/stringr
 	shallow = true
+	branch = HEAD
 [submodule "tibble"]
 	path = tibble
 	url = https://github.com/tidyverse/tibble
 	shallow = true
+	branch = HEAD
 [submodule "tidyr"]
 	path = tidyr
 	url = https://github.com/tidyverse/tidyr
 	shallow = true
+	branch = HEAD
 [submodule "tidyverse"]
 	path = tidyverse
 	url = https://github.com/tidyverse/tidyverse
 	shallow = true
+	branch = HEAD
 [submodule "gargle"]
 	path = gargle
 	url = https://github.com/r-lib/gargle
