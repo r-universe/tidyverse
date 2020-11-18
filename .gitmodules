@@ -51,6 +51,10 @@
 	path = lubridate
 	url = https://github.com/tidyverse/lubridate
 	shallow = true
+[submodule "magrittr"]
+	path = magrittr
+	url = https://github.com/tidyverse/magrittr
+	shallow = true
 [submodule "modelr"]
 	path = modelr
 	url = https://github.com/tidyverse/modelr
