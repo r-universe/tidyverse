@@ -100,6 +100,10 @@
 	url = https://github.com/r-lib/gargle
 	shallow = true
 	branch = retry
+[submodule "rlang"]
+	path = rlang
+	url = https://github.com/r-lib/rlang
+	shallow = true
 [submodule "testthat"]
 	path = testthat
 	url = https://github.com/r-lib/testthat
