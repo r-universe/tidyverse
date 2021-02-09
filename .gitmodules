@@ -59,6 +59,10 @@
 	path = modelr
 	url = https://github.com/tidyverse/modelr
 	shallow = true
+[submodule "multidplyr"]
+	path = multidplyr
+	url = https://github.com/tidyverse/multidplyr
+	shallow = true
 [submodule "purrr"]
 	path = purrr
 	url = https://github.com/tidyverse/purrr
