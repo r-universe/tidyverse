@@ -104,8 +104,3 @@
 	url = https://github.com/r-lib/gargle
 	shallow = true
 	branch = retry
-[submodule "pillar"]
-	path = pillar
-	url = https://github.com/r-lib/pillar
-	shallow = true
-	branch = v1.5.0
