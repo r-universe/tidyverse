@@ -103,4 +103,3 @@
 	path = gargle
 	url = https://github.com/r-lib/gargle
 	shallow = true
-	branch = retry

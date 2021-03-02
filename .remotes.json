@@ -3,7 +3,6 @@
     "package": "gargle",
     "url": "https://github.com/r-lib/gargle",
     "via": ["googlesheets4"],
-    "branch": "retry",
     "from": "googlesheets4"
   }
 ]
