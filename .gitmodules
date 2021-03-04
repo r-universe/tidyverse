@@ -99,7 +99,3 @@
 	path = tidyverse
 	url = https://github.com/tidyverse/tidyverse
 	shallow = true
-[submodule "gargle"]
-	path = gargle
-	url = https://github.com/r-lib/gargle
-	shallow = true
