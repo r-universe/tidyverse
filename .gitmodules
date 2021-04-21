@@ -78,6 +78,11 @@
 	url = https://github.com/tidyverse/multidplyr
 	shallow = true
 	registered = true
+[submodule "nycflights13"]
+	path = nycflights13
+	url = https://github.com/tidyverse/nycflights13
+	shallow = true
+	registered = true
 [submodule "purrr"]
 	path = purrr
 	url = https://github.com/tidyverse/purrr
