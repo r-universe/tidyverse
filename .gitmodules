@@ -128,3 +128,13 @@
 	url = https://github.com/tidyverse/tidyverse
 	shallow = true
 	registered = true
+[submodule "vroom"]
+	path = vroom
+	url = https://github.com/r-lib/vroom
+	shallow = true
+	registered = false
+[submodule "withr"]
+	path = withr
+	url = https://github.com/r-lib/withr
+	shallow = true
+	registered = false
