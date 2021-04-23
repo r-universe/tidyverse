@@ -1,5 +1,11 @@
 [
   {
+    "package": "cli",
+    "url": "https://github.com/r-lib/cli",
+    "via": ["googledrive"],
+    "from": "googledrive"
+  },
+  {
     "package": "vroom",
     "url": "https://github.com/r-lib/vroom",
     "via": ["readr"],
