@@ -46,11 +46,5 @@
     "url": "https://github.com/r-lib/vroom",
     "via": ["readr"],
     "from": "readr"
-  },
-  {
-    "package": "withr",
-    "url": "https://github.com/r-lib/withr",
-    "via": ["readr"],
-    "from": "readr"
   }
 ]
