@@ -8,143 +8,172 @@
 	url = https://github.com/tidyverse/blob
 	shallow = true
 	registered = true
+	oncran = true
 [submodule "dbplyr"]
 	path = dbplyr
 	url = https://github.com/tidyverse/dbplyr
 	shallow = true
 	registered = true
+	oncran = true
 [submodule "dplyr"]
 	path = dplyr
 	url = https://github.com/tidyverse/dplyr
 	shallow = true
 	registered = true
+	oncran = true
 [submodule "dtplyr"]
 	path = dtplyr
 	url = https://github.com/tidyverse/dtplyr
 	shallow = true
 	registered = true
+	oncran = true
 [submodule "forcats"]
 	path = forcats
 	url = https://github.com/tidyverse/forcats
 	shallow = true
 	registered = true
+	oncran = true
 [submodule "ggplot2"]
 	path = ggplot2
 	url = https://github.com/tidyverse/ggplot2
 	shallow = true
 	registered = true
+	oncran = true
 [submodule "glue"]
 	path = glue
 	url = https://github.com/tidyverse/glue
 	shallow = true
 	registered = true
+	oncran = true
 [submodule "googledrive"]
 	path = googledrive
 	url = https://github.com/tidyverse/googledrive
 	shallow = true
 	registered = true
+	oncran = true
 [submodule "googlesheets4"]
 	path = googlesheets4
 	url = https://github.com/tidyverse/googlesheets4
 	shallow = true
 	registered = true
+	oncran = true
 [submodule "haven"]
 	path = haven
 	url = https://github.com/tidyverse/haven
 	shallow = true
 	registered = true
+	oncran = true
 [submodule "hms"]
 	path = hms
 	url = https://github.com/tidyverse/hms
 	shallow = true
 	registered = true
+	oncran = true
 [submodule "lubridate"]
 	path = lubridate
 	url = https://github.com/tidyverse/lubridate
 	shallow = true
 	registered = true
+	oncran = true
 [submodule "magrittr"]
 	path = magrittr
 	url = https://github.com/tidyverse/magrittr
 	shallow = true
 	registered = true
+	oncran = true
 [submodule "modelr"]
 	path = modelr
 	url = https://github.com/tidyverse/modelr
 	shallow = true
 	registered = true
+	oncran = true
 [submodule "multidplyr"]
 	path = multidplyr
 	url = https://github.com/tidyverse/multidplyr
 	shallow = true
 	registered = true
+	oncran = true
 [submodule "nycflights13"]
 	path = nycflights13
 	url = https://github.com/tidyverse/nycflights13
 	shallow = true
 	registered = true
+	oncran = true
 [submodule "purrr"]
 	path = purrr
 	url = https://github.com/tidyverse/purrr
 	shallow = true
 	registered = true
+	oncran = true
 [submodule "readr"]
 	path = readr
 	url = https://github.com/tidyverse/readr
 	shallow = true
 	registered = true
+	oncran = true
 [submodule "readxl"]
 	path = readxl
 	url = https://github.com/tidyverse/readxl
 	shallow = true
 	registered = true
+	oncran = true
 [submodule "reprex"]
 	path = reprex
 	url = https://github.com/tidyverse/reprex
 	shallow = true
 	registered = true
+	oncran = true
 [submodule "rvest"]
 	path = rvest
 	url = https://github.com/tidyverse/rvest
 	shallow = true
 	registered = true
+	oncran = true
 [submodule "stringr"]
 	path = stringr
 	url = https://github.com/tidyverse/stringr
 	shallow = true
 	registered = true
+	oncran = true
 [submodule "tibble"]
 	path = tibble
 	url = https://github.com/tidyverse/tibble
 	shallow = true
 	registered = true
+	oncran = true
 [submodule "tidyr"]
 	path = tidyr
 	url = https://github.com/tidyverse/tidyr
 	shallow = true
 	registered = true
+	oncran = true
 [submodule "tidyverse"]
 	path = tidyverse
 	url = https://github.com/tidyverse/tidyverse
 	shallow = true
 	registered = true
+	oncran = true
 [submodule "cli"]
 	path = cli
 	url = https://github.com/r-lib/cli
 	shallow = true
 	registered = false
+	oncran = true
 [submodule "downlit"]
 	path = downlit
 	url = https://github.com/r-lib/downlit
 	shallow = true
 	registered = false
+	oncran = true
 [submodule "rlang"]
 	path = rlang
 	url = https://github.com/r-lib/rlang
 	shallow = true
 	registered = false
+	oncran = true
 [submodule "vroom"]
 	path = vroom
 	url = https://github.com/r-lib/vroom
 	shallow = true
 	registered = false
+	oncran = true
