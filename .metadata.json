@@ -1,0 +1,102 @@
+[
+  {
+    "package": "blob",
+    "oncran": true
+  },
+  {
+    "package": "dbplyr",
+    "oncran": true
+  },
+  {
+    "package": "dplyr",
+    "oncran": true
+  },
+  {
+    "package": "dtplyr",
+    "oncran": true
+  },
+  {
+    "package": "forcats",
+    "oncran": true
+  },
+  {
+    "package": "ggplot2",
+    "oncran": true
+  },
+  {
+    "package": "glue",
+    "oncran": true
+  },
+  {
+    "package": "googledrive",
+    "oncran": true
+  },
+  {
+    "package": "googlesheets4",
+    "oncran": true
+  },
+  {
+    "package": "haven",
+    "oncran": true
+  },
+  {
+    "package": "hms",
+    "oncran": true
+  },
+  {
+    "package": "lubridate",
+    "oncran": true
+  },
+  {
+    "package": "magrittr",
+    "oncran": true
+  },
+  {
+    "package": "modelr",
+    "oncran": true
+  },
+  {
+    "package": "multidplyr",
+    "oncran": true
+  },
+  {
+    "package": "nycflights13",
+    "oncran": true
+  },
+  {
+    "package": "purrr",
+    "oncran": true
+  },
+  {
+    "package": "readr",
+    "oncran": true
+  },
+  {
+    "package": "readxl",
+    "oncran": true
+  },
+  {
+    "package": "reprex",
+    "oncran": true
+  },
+  {
+    "package": "rvest",
+    "oncran": true
+  },
+  {
+    "package": "stringr",
+    "oncran": true
+  },
+  {
+    "package": "tibble",
+    "oncran": true
+  },
+  {
+    "package": "tidyr",
+    "oncran": true
+  },
+  {
+    "package": "tidyverse",
+    "oncran": true
+  }
+]
