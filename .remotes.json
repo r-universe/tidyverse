@@ -2,18 +2,6 @@
   {
     "package": "cli",
     "url": "https://github.com/r-lib/cli",
-    "via": ["googledrive"],
-    "from": "googledrive"
-  },
-  {
-    "package": "cli",
-    "url": "https://github.com/r-lib/cli",
-    "via": ["googledrive", "gargle"],
-    "from": "googledrive"
-  },
-  {
-    "package": "cli",
-    "url": "https://github.com/r-lib/cli",
     "via": ["googlesheets4"],
     "from": "googlesheets4"
   },
@@ -40,12 +28,6 @@
     "url": "https://github.com/r-lib/downlit",
     "via": ["googlesheets4", "googledrive"],
     "from": "googlesheets4"
-  },
-  {
-    "package": "gargle",
-    "url": "https://github.com/r-lib/gargle",
-    "via": ["googledrive"],
-    "from": "googledrive"
   },
   {
     "package": "gargle",
