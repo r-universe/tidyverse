@@ -20,12 +20,6 @@
   {
     "package": "downlit",
     "url": "https://github.com/r-lib/downlit",
-    "via": ["googledrive"],
-    "from": "googledrive"
-  },
-  {
-    "package": "downlit",
-    "url": "https://github.com/r-lib/downlit",
     "via": ["googlesheets4", "googledrive"],
     "from": "googlesheets4"
   },
