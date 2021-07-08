@@ -133,21 +133,6 @@
 	url = https://github.com/r-lib/archive
 	shallow = true
 	registered = false
-[submodule "cli"]
-	path = cli
-	url = https://github.com/r-lib/cli
-	shallow = true
-	registered = false
-[submodule "downlit"]
-	path = downlit
-	url = https://github.com/r-lib/downlit
-	shallow = true
-	registered = false
-[submodule "gargle"]
-	path = gargle
-	url = https://github.com/r-lib/gargle
-	shallow = true
-	registered = false
 [submodule "rlang"]
 	path = rlang
 	url = https://github.com/r-lib/rlang
