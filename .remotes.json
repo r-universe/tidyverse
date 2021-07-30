@@ -1,0 +1,9 @@
+[
+  {
+    "package": "pillar",
+    "url": "https://github.com/r-lib/pillar",
+    "via": ["tibble"],
+    "branch": "v1.6.2",
+    "from": "tibble"
+  }
+]
