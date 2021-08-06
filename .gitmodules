@@ -128,6 +128,11 @@
 	url = https://github.com/tidyverse/tidyverse
 	shallow = true
 	registered = true
+[submodule "gargle"]
+	path = gargle
+	url = https://github.com/r-lib/gargle
+	shallow = true
+	registered = false
 [submodule "pillar"]
 	path = pillar
 	url = https://github.com/r-lib/pillar
