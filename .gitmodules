@@ -128,6 +128,11 @@
 	url = https://github.com/tidyverse/tidyverse
 	shallow = true
 	registered = true
+[submodule "cpp11"]
+	path = cpp11
+	url = https://github.com/r-lib/cpp11
+	shallow = true
+	registered = false
 [submodule "gargle"]
 	path = gargle
 	url = https://github.com/r-lib/gargle
