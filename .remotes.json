@@ -12,22 +12,9 @@
     "from": "googlesheets4"
   },
   {
-    "package": "pillar",
-    "url": "https://github.com/r-lib/pillar",
-    "via": ["tibble"],
-    "branch": "v1.6.2",
-    "from": "tibble"
-  },
-  {
     "package": "rlang",
     "url": "https://github.com/r-lib/rlang",
     "via": ["dplyr"],
     "from": "dplyr"
-  },
-  {
-    "package": "rlang",
-    "url": "https://github.com/r-lib/rlang",
-    "via": ["tibble"],
-    "from": "tibble"
   }
 ]

@@ -138,12 +138,6 @@
 	url = https://github.com/r-lib/gargle
 	shallow = true
 	registered = false
-[submodule "pillar"]
-	path = pillar
-	url = https://github.com/r-lib/pillar
-	shallow = true
-	branch = v1.6.2
-	registered = false
 [submodule "rlang"]
 	path = rlang
 	url = https://github.com/r-lib/rlang
