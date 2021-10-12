@@ -13,11 +13,6 @@
 	url = https://github.com/tidyverse/dbplyr
 	shallow = true
 	registered = true
-[submodule "dplyr"]
-	path = dplyr
-	url = https://github.com/tidyverse/dplyr
-	shallow = true
-	registered = true
 [submodule "dtplyr"]
 	path = dtplyr
 	url = https://github.com/tidyverse/dtplyr
@@ -41,11 +36,6 @@
 [submodule "googledrive"]
 	path = googledrive
 	url = https://github.com/tidyverse/googledrive
-	shallow = true
-	registered = true
-[submodule "googlesheets4"]
-	path = googlesheets4
-	url = https://github.com/tidyverse/googlesheets4
 	shallow = true
 	registered = true
 [submodule "haven"]
@@ -91,11 +81,6 @@
 [submodule "readr"]
 	path = readr
 	url = https://github.com/tidyverse/readr
-	shallow = true
-	registered = true
-[submodule "readxl"]
-	path = readxl
-	url = https://github.com/tidyverse/readxl
 	shallow = true
 	registered = true
 [submodule "reprex"]
