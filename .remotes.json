@@ -16,11 +16,5 @@
     "url": "https://github.com/r-lib/rlang",
     "via": ["dplyr"],
     "from": "dplyr"
-  },
-  {
-    "package": "testthat",
-    "url": "https://github.com/r-lib/testthat",
-    "via": ["dplyr"],
-    "from": "dplyr"
   }
 ]
