@@ -1,11 +1,5 @@
 [
   {
-    "package": "cpp11",
-    "url": "https://github.com/r-lib/cpp11",
-    "via": ["readxl"],
-    "from": "readxl"
-  },
-  {
     "package": "gargle",
     "url": "https://github.com/r-lib/gargle",
     "via": ["googlesheets4"],
