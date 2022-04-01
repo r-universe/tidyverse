@@ -98,5 +98,9 @@
   {
     "package": "tidyverse",
     "oncran": true
+  },
+  {
+    "package": "vroom",
+    "oncran": true
   }
 ]
