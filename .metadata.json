@@ -60,6 +60,10 @@
     "oncran": true
   },
   {
+    "package": "nycflights13",
+    "oncran": true
+  },
+  {
     "package": "purrr",
     "oncran": true
   },
@@ -93,6 +97,10 @@
   },
   {
     "package": "tidyverse",
+    "oncran": true
+  },
+  {
+    "package": "vroom",
     "oncran": true
   }
 ]
