@@ -24,6 +24,12 @@
     "from": "dtplyr"
   },
   {
+    "package": "lifecycle",
+    "url": "https://github.com/r-lib/lifecycle",
+    "via": ["ggplot2"],
+    "from": "ggplot2"
+  },
+  {
     "package": "tidyselect",
     "url": "https://github.com/r-lib/tidyselect",
     "via": ["dplyr"],
