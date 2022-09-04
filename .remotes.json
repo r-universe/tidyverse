@@ -64,5 +64,11 @@
     "url": "https://github.com/r-lib/vctrs",
     "via": ["dtplyr", "tidyselect"],
     "from": "dtplyr"
+  },
+  {
+    "package": "vctrs",
+    "url": "https://github.com/r-lib/vctrs",
+    "via": ["tibble"],
+    "from": "tibble"
   }
 ]
