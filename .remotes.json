@@ -8,12 +8,6 @@
   {
     "package": "lifecycle",
     "url": "https://github.com/r-lib/lifecycle",
-    "via": ["dplyr"],
-    "from": "dplyr"
-  },
-  {
-    "package": "lifecycle",
-    "url": "https://github.com/r-lib/lifecycle",
     "via": ["dtplyr", "tidyselect"],
     "from": "dtplyr"
   },
