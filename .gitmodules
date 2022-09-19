@@ -13,6 +13,16 @@
 	url = https://github.com/tidyverse/dbplyr
 	shallow = true
 	registered = true
+[submodule "dplyr"]
+	path = dplyr
+	url = https://github.com/tidyverse/dplyr
+	shallow = true
+	registered = true
+[submodule "dtplyr"]
+	path = dtplyr
+	url = https://github.com/tidyverse/dtplyr
+	shallow = true
+	registered = true
 [submodule "forcats"]
 	path = forcats
 	url = https://github.com/tidyverse/forcats
@@ -38,9 +48,19 @@
 	url = https://github.com/tidyverse/googlesheets4
 	shallow = true
 	registered = true
+[submodule "haven"]
+	path = haven
+	url = https://github.com/tidyverse/haven
+	shallow = true
+	registered = true
 [submodule "hms"]
 	path = hms
 	url = https://github.com/tidyverse/hms
+	shallow = true
+	registered = true
+[submodule "lubridate"]
+	path = lubridate
+	url = https://github.com/tidyverse/lubridate
 	shallow = true
 	registered = true
 [submodule "magrittr"]
