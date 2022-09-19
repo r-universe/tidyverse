@@ -8,38 +8,8 @@
   {
     "package": "lifecycle",
     "url": "https://github.com/r-lib/lifecycle",
-    "via": ["dtplyr", "tidyselect"],
-    "from": "dtplyr"
-  },
-  {
-    "package": "lifecycle",
-    "url": "https://github.com/r-lib/lifecycle",
     "via": ["ggplot2"],
     "from": "ggplot2"
-  },
-  {
-    "package": "tidyselect",
-    "url": "https://github.com/r-lib/tidyselect",
-    "via": ["dplyr"],
-    "from": "dplyr"
-  },
-  {
-    "package": "tidyselect",
-    "url": "https://github.com/r-lib/tidyselect",
-    "via": ["dtplyr"],
-    "from": "dtplyr"
-  },
-  {
-    "package": "vctrs",
-    "url": "https://github.com/r-lib/vctrs",
-    "via": ["dplyr"],
-    "from": "dplyr"
-  },
-  {
-    "package": "vctrs",
-    "url": "https://github.com/r-lib/vctrs",
-    "via": ["dtplyr", "tidyselect"],
-    "from": "dtplyr"
   },
   {
     "package": "vctrs",
