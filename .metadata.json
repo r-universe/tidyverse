@@ -8,14 +8,6 @@
     "oncran": true
   },
   {
-    "package": "dplyr",
-    "oncran": true
-  },
-  {
-    "package": "dtplyr",
-    "oncran": true
-  },
-  {
     "package": "forcats",
     "oncran": true
   },
@@ -36,15 +28,7 @@
     "oncran": true
   },
   {
-    "package": "haven",
-    "oncran": true
-  },
-  {
     "package": "hms",
-    "oncran": true
-  },
-  {
-    "package": "lubridate",
     "oncran": true
   },
   {
