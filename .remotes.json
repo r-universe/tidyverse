@@ -1,9 +1,21 @@
 [
   {
+    "package": "dplyr",
+    "url": "https://github.com/tidyverse/dplyr",
+    "via": ["dbplyr"],
+    "from": "dbplyr"
+  },
+  {
     "package": "gargle",
     "url": "https://github.com/r-lib/gargle",
     "via": ["googledrive"],
     "from": "googledrive"
+  },
+  {
+    "package": "lifecycle",
+    "url": "https://github.com/r-lib/lifecycle",
+    "via": ["dbplyr", "dplyr"],
+    "from": "dbplyr"
   },
   {
     "package": "lifecycle",
@@ -26,6 +38,18 @@
   {
     "package": "tidyselect",
     "url": "https://github.com/r-lib/tidyselect",
+    "via": ["dbplyr"],
+    "from": "dbplyr"
+  },
+  {
+    "package": "tidyselect",
+    "url": "https://github.com/r-lib/tidyselect",
+    "via": ["dbplyr", "dplyr"],
+    "from": "dbplyr"
+  },
+  {
+    "package": "tidyselect",
+    "url": "https://github.com/r-lib/tidyselect",
     "via": ["dplyr"],
     "from": "dplyr"
   },
@@ -34,6 +58,18 @@
     "url": "https://github.com/r-lib/tidyselect",
     "via": ["dtplyr"],
     "from": "dtplyr"
+  },
+  {
+    "package": "vctrs",
+    "url": "https://github.com/r-lib/vctrs",
+    "via": ["dbplyr"],
+    "from": "dbplyr"
+  },
+  {
+    "package": "vctrs",
+    "url": "https://github.com/r-lib/vctrs",
+    "via": ["dbplyr", "dplyr"],
+    "from": "dbplyr"
   },
   {
     "package": "vctrs",
