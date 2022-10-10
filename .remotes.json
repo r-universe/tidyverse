@@ -30,12 +30,6 @@
     "from": "ggplot2"
   },
   {
-    "package": "lifecycle",
-    "url": "https://github.com/r-lib/lifecycle",
-    "via": ["purrr"],
-    "from": "purrr"
-  },
-  {
     "package": "tidyselect",
     "url": "https://github.com/r-lib/tidyselect",
     "via": ["dbplyr"],
