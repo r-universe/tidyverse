@@ -70,5 +70,11 @@
     "url": "https://github.com/r-lib/vctrs",
     "via": ["tibble"],
     "from": "tibble"
+  },
+  {
+    "package": "vctrs",
+    "url": "https://github.com/r-lib/vctrs",
+    "via": ["tidyr"],
+    "from": "tidyr"
   }
 ]
