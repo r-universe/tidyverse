@@ -14,12 +14,6 @@
   {
     "package": "lifecycle",
     "url": "https://github.com/r-lib/lifecycle",
-    "via": ["dbplyr", "dplyr"],
-    "from": "dbplyr"
-  },
-  {
-    "package": "lifecycle",
-    "url": "https://github.com/r-lib/lifecycle",
     "via": ["ggplot2"],
     "from": "ggplot2"
   },
@@ -30,9 +24,9 @@
     "from": "dbplyr"
   },
   {
-    "package": "tidyselect",
-    "url": "https://github.com/r-lib/tidyselect",
-    "via": ["dbplyr", "dplyr"],
+    "package": "vctrs",
+    "url": "https://github.com/r-lib/vctrs",
+    "via": ["dbplyr", "tidyselect"],
     "from": "dbplyr"
   },
   {
