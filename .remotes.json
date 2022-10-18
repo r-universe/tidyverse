@@ -18,18 +18,6 @@
     "from": "ggplot2"
   },
   {
-    "package": "tidyselect",
-    "url": "https://github.com/r-lib/tidyselect",
-    "via": ["dbplyr"],
-    "from": "dbplyr"
-  },
-  {
-    "package": "vctrs",
-    "url": "https://github.com/r-lib/vctrs",
-    "via": ["dbplyr", "tidyselect"],
-    "from": "dbplyr"
-  },
-  {
     "package": "vctrs",
     "url": "https://github.com/r-lib/vctrs",
     "via": ["dbplyr"],
