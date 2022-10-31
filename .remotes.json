@@ -12,12 +12,6 @@
     "from": "googledrive"
   },
   {
-    "package": "lifecycle",
-    "url": "https://github.com/r-lib/lifecycle",
-    "via": ["ggplot2"],
-    "from": "ggplot2"
-  },
-  {
     "package": "vctrs",
     "url": "https://github.com/r-lib/vctrs",
     "via": ["dbplyr"],

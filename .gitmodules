@@ -138,11 +138,6 @@
 	url = https://github.com/r-lib/gargle
 	shallow = true
 	registered = false
-[submodule "lifecycle"]
-	path = lifecycle
-	url = https://github.com/r-lib/lifecycle
-	shallow = true
-	registered = false
 [submodule "vctrs"]
 	path = vctrs
 	url = https://github.com/r-lib/vctrs
