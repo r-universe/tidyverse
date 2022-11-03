@@ -14,18 +14,6 @@
   {
     "package": "vctrs",
     "url": "https://github.com/r-lib/vctrs",
-    "via": ["dbplyr"],
-    "from": "dbplyr"
-  },
-  {
-    "package": "vctrs",
-    "url": "https://github.com/r-lib/vctrs",
-    "via": ["dbplyr", "dplyr"],
-    "from": "dbplyr"
-  },
-  {
-    "package": "vctrs",
-    "url": "https://github.com/r-lib/vctrs",
     "via": ["tibble"],
     "from": "tibble"
   }
