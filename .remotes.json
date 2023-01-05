@@ -6,6 +6,12 @@
     "from": "googledrive"
   },
   {
+    "package": "purrr",
+    "url": "https://github.com/tidyverse/purrr",
+    "via": ["googledrive"],
+    "from": "googledrive"
+  },
+  {
     "package": "vctrs",
     "url": "https://github.com/r-lib/vctrs",
     "via": ["tibble"],
