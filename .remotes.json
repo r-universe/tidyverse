@@ -20,6 +20,12 @@
   {
     "package": "vctrs",
     "url": "https://github.com/r-lib/vctrs",
+    "via": ["dplyr"],
+    "from": "dplyr"
+  },
+  {
+    "package": "vctrs",
+    "url": "https://github.com/r-lib/vctrs",
     "via": ["tibble"],
     "from": "tibble"
   }
