@@ -3,39 +3,9 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
-[submodule "dplyr"]
-	path = dplyr
-	url = https://github.com/tidyverse/dplyr
-	shallow = true
-	registered = true
-[submodule "tidyr"]
-	path = tidyr
-	url = https://github.com/tidyverse/tidyr
-	shallow = true
-	registered = true
-[submodule "haven"]
-	path = haven
-	url = https://github.com/tidyverse/haven
-	shallow = true
-	registered = true
-[submodule "purrr"]
-	path = purrr
-	url = https://github.com/tidyverse/purrr
-	shallow = true
-	registered = true
-[submodule "stringr"]
-	path = stringr
-	url = https://github.com/tidyverse/stringr
-	shallow = true
-	registered = true
-[submodule "tidyverse"]
-	path = tidyverse
-	url = https://github.com/tidyverse/tidyverse
-	shallow = true
-	registered = true
-[submodule "dtplyr"]
-	path = dtplyr
-	url = https://github.com/tidyverse/dtplyr
+[submodule "blob"]
+	path = blob
+	url = https://github.com/tidyverse/blob
 	shallow = true
 	registered = true
 [submodule "dbplyr"]
@@ -43,14 +13,14 @@
 	url = https://github.com/tidyverse/dbplyr
 	shallow = true
 	registered = true
-[submodule "nycflights13"]
-	path = nycflights13
-	url = https://github.com/tidyverse/nycflights13
+[submodule "dplyr"]
+	path = dplyr
+	url = https://github.com/tidyverse/dplyr
 	shallow = true
 	registered = true
-[submodule "multidplyr"]
-	path = multidplyr
-	url = https://github.com/tidyverse/multidplyr
+[submodule "dtplyr"]
+	path = dtplyr
+	url = https://github.com/tidyverse/dtplyr
 	shallow = true
 	registered = true
 [submodule "forcats"]
@@ -58,54 +28,9 @@
 	url = https://github.com/tidyverse/forcats
 	shallow = true
 	registered = true
-[submodule "rvest"]
-	path = rvest
-	url = https://github.com/tidyverse/rvest
-	shallow = true
-	registered = true
-[submodule "modelr"]
-	path = modelr
-	url = https://github.com/tidyverse/modelr
-	shallow = true
-	registered = true
-[submodule "tibble"]
-	path = tibble
-	url = https://github.com/tidyverse/tibble
-	shallow = true
-	registered = true
-[submodule "hms"]
-	path = hms
-	url = https://github.com/tidyverse/hms
-	shallow = true
-	registered = true
-[submodule "readxl"]
-	path = readxl
-	url = https://github.com/tidyverse/readxl
-	shallow = true
-	registered = true
-[submodule "readr"]
-	path = readr
-	url = https://github.com/tidyverse/readr
-	shallow = true
-	registered = true
 [submodule "ggplot2"]
 	path = ggplot2
 	url = https://github.com/tidyverse/ggplot2
-	shallow = true
-	registered = true
-[submodule "googledrive"]
-	path = googledrive
-	url = https://github.com/tidyverse/googledrive
-	shallow = true
-	registered = true
-[submodule "reprex"]
-	path = reprex
-	url = https://github.com/tidyverse/reprex
-	shallow = true
-	registered = true
-[submodule "googlesheets4"]
-	path = googlesheets4
-	url = https://github.com/tidyverse/googlesheets4
 	shallow = true
 	registered = true
 [submodule "glue"]
@@ -113,14 +38,29 @@
 	url = https://github.com/tidyverse/glue
 	shallow = true
 	registered = true
-[submodule "vroom"]
-	path = vroom
-	url = https://github.com/tidyverse/vroom
+[submodule "googledrive"]
+	path = googledrive
+	url = https://github.com/tidyverse/googledrive
 	shallow = true
 	registered = true
-[submodule "blob"]
-	path = blob
-	url = https://github.com/tidyverse/blob
+[submodule "googlesheets4"]
+	path = googlesheets4
+	url = https://github.com/tidyverse/googlesheets4
+	shallow = true
+	registered = true
+[submodule "haven"]
+	path = haven
+	url = https://github.com/tidyverse/haven
+	shallow = true
+	registered = true
+[submodule "hms"]
+	path = hms
+	url = https://github.com/tidyverse/hms
+	shallow = true
+	registered = true
+[submodule "lubridate"]
+	path = lubridate
+	url = https://github.com/tidyverse/lubridate
 	shallow = true
 	registered = true
 [submodule "magrittr"]
@@ -128,9 +68,69 @@
 	url = https://github.com/tidyverse/magrittr
 	shallow = true
 	registered = true
-[submodule "lubridate"]
-	path = lubridate
-	url = https://github.com/tidyverse/lubridate
+[submodule "modelr"]
+	path = modelr
+	url = https://github.com/tidyverse/modelr
+	shallow = true
+	registered = true
+[submodule "multidplyr"]
+	path = multidplyr
+	url = https://github.com/tidyverse/multidplyr
+	shallow = true
+	registered = true
+[submodule "nycflights13"]
+	path = nycflights13
+	url = https://github.com/tidyverse/nycflights13
+	shallow = true
+	registered = true
+[submodule "purrr"]
+	path = purrr
+	url = https://github.com/tidyverse/purrr
+	shallow = true
+	registered = true
+[submodule "readr"]
+	path = readr
+	url = https://github.com/tidyverse/readr
+	shallow = true
+	registered = true
+[submodule "readxl"]
+	path = readxl
+	url = https://github.com/tidyverse/readxl
+	shallow = true
+	registered = true
+[submodule "reprex"]
+	path = reprex
+	url = https://github.com/tidyverse/reprex
+	shallow = true
+	registered = true
+[submodule "rvest"]
+	path = rvest
+	url = https://github.com/tidyverse/rvest
+	shallow = true
+	registered = true
+[submodule "stringr"]
+	path = stringr
+	url = https://github.com/tidyverse/stringr
+	shallow = true
+	registered = true
+[submodule "tibble"]
+	path = tibble
+	url = https://github.com/tidyverse/tibble
+	shallow = true
+	registered = true
+[submodule "tidyr"]
+	path = tidyr
+	url = https://github.com/tidyverse/tidyr
+	shallow = true
+	registered = true
+[submodule "tidyverse"]
+	path = tidyverse
+	url = https://github.com/tidyverse/tidyverse
+	shallow = true
+	registered = true
+[submodule "vroom"]
+	path = vroom
+	url = https://github.com/tidyverse/vroom
 	shallow = true
 	registered = true
 [submodule "gargle"]

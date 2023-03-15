@@ -1,30 +1,6 @@
 [
   {
-    "package": "dplyr",
-    "oncran": true
-  },
-  {
-    "package": "tidyr",
-    "oncran": true
-  },
-  {
-    "package": "haven",
-    "oncran": true
-  },
-  {
-    "package": "purrr",
-    "oncran": true
-  },
-  {
-    "package": "stringr",
-    "oncran": true
-  },
-  {
-    "package": "tidyverse",
-    "oncran": true
-  },
-  {
-    "package": "dtplyr",
+    "package": "blob",
     "oncran": true
   },
   {
@@ -32,11 +8,11 @@
     "oncran": true
   },
   {
-    "package": "nycflights13",
+    "package": "dplyr",
     "oncran": true
   },
   {
-    "package": "multidplyr",
+    "package": "dtplyr",
     "oncran": true
   },
   {
@@ -44,43 +20,7 @@
     "oncran": true
   },
   {
-    "package": "rvest",
-    "oncran": true
-  },
-  {
-    "package": "modelr",
-    "oncran": true
-  },
-  {
-    "package": "tibble",
-    "oncran": true
-  },
-  {
-    "package": "hms",
-    "oncran": true
-  },
-  {
-    "package": "readxl",
-    "oncran": true
-  },
-  {
-    "package": "readr",
-    "oncran": true
-  },
-  {
     "package": "ggplot2",
-    "oncran": true
-  },
-  {
-    "package": "googledrive",
-    "oncran": true
-  },
-  {
-    "package": "reprex",
-    "oncran": true
-  },
-  {
-    "package": "googlesheets4",
     "oncran": true
   },
   {
@@ -88,11 +28,23 @@
     "oncran": true
   },
   {
-    "package": "vroom",
+    "package": "googledrive",
     "oncran": true
   },
   {
-    "package": "blob",
+    "package": "googlesheets4",
+    "oncran": true
+  },
+  {
+    "package": "haven",
+    "oncran": true
+  },
+  {
+    "package": "hms",
+    "oncran": true
+  },
+  {
+    "package": "lubridate",
     "oncran": true
   },
   {
@@ -100,7 +52,55 @@
     "oncran": true
   },
   {
-    "package": "lubridate",
+    "package": "modelr",
+    "oncran": true
+  },
+  {
+    "package": "multidplyr",
+    "oncran": true
+  },
+  {
+    "package": "nycflights13",
+    "oncran": true
+  },
+  {
+    "package": "purrr",
+    "oncran": true
+  },
+  {
+    "package": "readr",
+    "oncran": true
+  },
+  {
+    "package": "readxl",
+    "oncran": true
+  },
+  {
+    "package": "reprex",
+    "oncran": true
+  },
+  {
+    "package": "rvest",
+    "oncran": true
+  },
+  {
+    "package": "stringr",
+    "oncran": true
+  },
+  {
+    "package": "tibble",
+    "oncran": true
+  },
+  {
+    "package": "tidyr",
+    "oncran": true
+  },
+  {
+    "package": "tidyverse",
+    "oncran": true
+  },
+  {
+    "package": "vroom",
     "oncran": true
   }
 ]
