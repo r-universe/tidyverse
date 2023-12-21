@@ -2,10 +2,6 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
-[submodule "DBI"]
-	path = DBI
-	url = https://github.com/r-dbi/DBI
-	registered = false
 [submodule "blob"]
 	path = blob
 	url = https://github.com/tidyverse/blob
