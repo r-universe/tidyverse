@@ -1,0 +1,8 @@
+[
+  {
+    "package": "DBI",
+    "url": "https://github.com/r-dbi/DBI",
+    "via": ["glue"],
+    "from": "glue"
+  }
+]
