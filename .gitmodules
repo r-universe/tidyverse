@@ -83,3 +83,7 @@
 [submodule "vroom"]
 	path = vroom
 	url = https://github.com/tidyverse/vroom
+[submodule "waldo"]
+	path = waldo
+	url = https://github.com/r-lib/waldo
+	registered = false
