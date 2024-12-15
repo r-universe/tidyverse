@@ -1,0 +1,8 @@
+[
+  {
+    "package": "pillar",
+    "url": "https://github.com/r-lib/pillar",
+    "via": ["duckplyr"],
+    "from": "duckplyr"
+  }
+]

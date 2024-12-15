@@ -53,6 +53,10 @@
 [submodule "nycflights13"]
 	path = nycflights13
 	url = https://github.com/tidyverse/nycflights13
+[submodule "pillar"]
+	path = pillar
+	url = https://github.com/r-lib/pillar
+	registered = false
 [submodule "purrr"]
 	path = purrr
 	url = https://github.com/tidyverse/purrr
