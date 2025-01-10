@@ -17,6 +17,9 @@
 [submodule "duckplyr"]
 	path = duckplyr
 	url = https://github.com/tidyverse/duckplyr
+[submodule "ellmer"]
+	path = ellmer
+	url = https://github.com/tidyverse/ellmer
 [submodule "forcats"]
 	path = forcats
 	url = https://github.com/tidyverse/forcats
