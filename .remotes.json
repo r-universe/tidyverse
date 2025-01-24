@@ -1,0 +1,8 @@
+[
+  {
+    "package": "duckdb",
+    "url": "https://github.com/duckdb/duckdb-r",
+    "via": ["duckplyr"],
+    "from": "duckplyr"
+  }
+]

@@ -14,6 +14,10 @@
 [submodule "dtplyr"]
 	path = dtplyr
 	url = https://github.com/tidyverse/dtplyr
+[submodule "duckdb"]
+	path = duckdb
+	url = https://github.com/duckdb/duckdb-r
+	registered = false
 [submodule "duckplyr"]
 	path = duckplyr
 	url = https://github.com/tidyverse/duckplyr
