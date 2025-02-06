@@ -1,0 +1,14 @@
+[
+  {
+    "package": "mirai",
+    "url": "https://github.com/shikokuchuo/mirai",
+    "via": ["purrr"],
+    "from": "purrr"
+  },
+  {
+    "package": "nanonext",
+    "url": "https://github.com/shikokuchuo/nanonext",
+    "via": ["purrr", "mirai"],
+    "from": "purrr"
+  }
+]

@@ -47,12 +47,20 @@
 [submodule "magrittr"]
 	path = magrittr
 	url = https://github.com/tidyverse/magrittr
+[submodule "mirai"]
+	path = mirai
+	url = https://github.com/shikokuchuo/mirai
+	registered = false
 [submodule "modelr"]
 	path = modelr
 	url = https://github.com/tidyverse/modelr
 [submodule "multidplyr"]
 	path = multidplyr
 	url = https://github.com/tidyverse/multidplyr
+[submodule "nanonext"]
+	path = nanonext
+	url = https://github.com/shikokuchuo/nanonext
+	registered = false
 [submodule "nycflights13"]
 	path = nycflights13
 	url = https://github.com/tidyverse/nycflights13
