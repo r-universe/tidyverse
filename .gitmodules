@@ -41,10 +41,6 @@
 [submodule "hms"]
 	path = hms
 	url = https://github.com/tidyverse/hms
-[submodule "httr2"]
-	path = httr2
-	url = https://github.com/r-lib/httr2
-	registered = false
 [submodule "lubridate"]
 	path = lubridate
 	url = https://github.com/tidyverse/lubridate
