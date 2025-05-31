@@ -59,6 +59,9 @@
 [submodule "purrr"]
 	path = purrr
 	url = https://github.com/tidyverse/purrr
+[submodule "ragnar"]
+	path = ragnar
+	url = https://github.com/tidyverse/ragnar
 [submodule "readr"]
 	path = readr
 	url = https://github.com/tidyverse/readr
