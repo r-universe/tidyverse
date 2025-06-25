@@ -98,6 +98,9 @@
 [submodule "tidyverse"]
 	path = tidyverse
 	url = https://github.com/tidyverse/tidyverse
+[submodule "vitals"]
+	path = vitals
+	url = https://github.com/tidyverse/vitals
 [submodule "vroom"]
 	path = vroom
 	url = https://github.com/tidyverse/vroom
