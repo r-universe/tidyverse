@@ -86,6 +86,10 @@
 [submodule "tidyverse"]
 	path = tidyverse
 	url = https://github.com/tidyverse/tidyverse
+[submodule "vcr"]
+	path = vcr
+	url = https://github.com/ropensci/vcr
+	registered = false
 [submodule "vitals"]
 	path = vitals
 	url = https://github.com/tidyverse/vitals

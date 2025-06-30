@@ -1,0 +1,8 @@
+[
+  {
+    "package": "vcr",
+    "url": "https://github.com/ropensci/vcr",
+    "via": ["ellmer"],
+    "from": "ellmer"
+  }
+]
