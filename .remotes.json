@@ -1,8 +1,20 @@
 [
   {
+    "package": "crul",
+    "url": "https://github.com/ropensci/crul",
+    "via": ["ellmer", "vcr"],
+    "from": "ellmer"
+  },
+  {
     "package": "vcr",
     "url": "https://github.com/ropensci/vcr",
     "via": ["ellmer"],
+    "from": "ellmer"
+  },
+  {
+    "package": "webmockr",
+    "url": "https://github.com/ropensci/webmockr",
+    "via": ["ellmer", "vcr", "crul"],
     "from": "ellmer"
   }
 ]

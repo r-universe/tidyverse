@@ -5,6 +5,10 @@
 [submodule "blob"]
 	path = blob
 	url = https://github.com/tidyverse/blob
+[submodule "crul"]
+	path = crul
+	url = https://github.com/ropensci/crul
+	registered = false
 [submodule "dbplyr"]
 	path = dbplyr
 	url = https://github.com/tidyverse/dbplyr
@@ -96,3 +100,7 @@
 [submodule "vroom"]
 	path = vroom
 	url = https://github.com/tidyverse/vroom
+[submodule "webmockr"]
+	path = webmockr
+	url = https://github.com/ropensci/webmockr
+	registered = false
