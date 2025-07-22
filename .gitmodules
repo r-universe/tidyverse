@@ -100,7 +100,3 @@
 [submodule "vroom"]
 	path = vroom
 	url = https://github.com/tidyverse/vroom
-[submodule "webmockr"]
-	path = webmockr
-	url = https://github.com/ropensci/webmockr
-	registered = false

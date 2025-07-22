@@ -10,11 +10,5 @@
     "url": "https://github.com/ropensci/vcr",
     "via": ["ellmer"],
     "from": "ellmer"
-  },
-  {
-    "package": "webmockr",
-    "url": "https://github.com/ropensci/webmockr",
-    "via": ["ellmer", "vcr", "crul"],
-    "from": "ellmer"
   }
 ]
