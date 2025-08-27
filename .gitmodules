@@ -5,6 +5,10 @@
 [submodule "blob"]
 	path = blob
 	url = https://github.com/tidyverse/blob
+[submodule "carrier"]
+	path = carrier
+	url = https://github.com/r-lib/carrier
+	registered = false
 [submodule "dbplyr"]
 	path = dbplyr
 	url = https://github.com/tidyverse/dbplyr
