@@ -61,10 +61,6 @@
 [submodule "multidplyr"]
 	path = multidplyr
 	url = https://github.com/tidyverse/multidplyr
-[submodule "nanonext"]
-	path = nanonext
-	url = https://github.com/r-lib/nanonext
-	registered = false
 [submodule "nycflights13"]
 	path = nycflights13
 	url = https://github.com/tidyverse/nycflights13
