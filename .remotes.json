@@ -1,0 +1,14 @@
+[
+  {
+    "package": "mirai",
+    "url": "https://github.com/r-lib/mirai",
+    "via": ["ragnar"],
+    "from": "ragnar"
+  },
+  {
+    "package": "nanonext",
+    "url": "https://github.com/r-lib/nanonext",
+    "via": ["ragnar", "mirai"],
+    "from": "ragnar"
+  }
+]
