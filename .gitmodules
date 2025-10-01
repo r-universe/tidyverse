@@ -94,6 +94,10 @@
 [submodule "tidyverse"]
 	path = tidyverse
 	url = https://github.com/tidyverse/tidyverse
+[submodule "vctrs"]
+	path = vctrs
+	url = https://github.com/r-lib/vctrs
+	registered = false
 [submodule "vitals"]
 	path = vitals
 	url = https://github.com/tidyverse/vitals
