@@ -79,6 +79,10 @@
 [submodule "reprex"]
 	path = reprex
 	url = https://github.com/tidyverse/reprex
+[submodule "rlang"]
+	path = rlang
+	url = https://github.com/r-lib/rlang
+	registered = false
 [submodule "rvest"]
 	path = rvest
 	url = https://github.com/tidyverse/rvest
