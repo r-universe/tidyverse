@@ -1,5 +1,11 @@
 [
   {
+    "package": "lifecycle",
+    "url": "https://github.com/r-lib/lifecycle",
+    "via": ["dplyr"],
+    "from": "dplyr"
+  },
+  {
     "package": "rlang",
     "url": "https://github.com/r-lib/rlang",
     "via": ["dplyr", "vctrs"],
