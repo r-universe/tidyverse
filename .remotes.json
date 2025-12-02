@@ -1,5 +1,11 @@
 [
   {
+    "package": "duckdb",
+    "url": "https://github.com/duckdb/duckdb-r",
+    "via": ["duckplyr"],
+    "from": "duckplyr"
+  },
+  {
     "package": "lifecycle",
     "url": "https://github.com/r-lib/lifecycle",
     "via": ["dplyr"],
