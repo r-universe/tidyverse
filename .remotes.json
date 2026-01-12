@@ -12,6 +12,13 @@
     "from": "dplyr"
   },
   {
+    "package": "shinychat",
+    "url": "https://github.com/posit-dev/shinychat",
+    "via": ["ellmer"],
+    "subdir": "pkg-r",
+    "from": "ellmer"
+  },
+  {
     "package": "vctrs",
     "url": "https://github.com/r-lib/vctrs",
     "via": ["dplyr"],

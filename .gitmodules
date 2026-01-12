@@ -82,6 +82,11 @@
 [submodule "rvest"]
 	path = rvest
 	url = https://github.com/tidyverse/rvest
+[submodule "shinychat"]
+	path = shinychat
+	url = https://github.com/posit-dev/shinychat
+	subdir = pkg-r
+	registered = false
 [submodule "stringr"]
 	path = stringr
 	url = https://github.com/tidyverse/stringr
