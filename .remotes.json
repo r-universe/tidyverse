@@ -5,11 +5,5 @@
     "via": ["ellmer"],
     "subdir": "pkg-r",
     "from": "ellmer"
-  },
-  {
-    "package": "vroom",
-    "url": "https://github.com/tidyverse/vroom",
-    "via": ["readr"],
-    "from": "readr"
   }
 ]
