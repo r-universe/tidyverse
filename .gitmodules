@@ -5,6 +5,10 @@
 [submodule "blob"]
 	path = blob
 	url = https://github.com/tidyverse/blob
+[submodule "cpp11"]
+	path = cpp11
+	url = https://github.com/r-lib/cpp11
+	registered = false
 [submodule "dbplyr"]
 	path = dbplyr
 	url = https://github.com/tidyverse/dbplyr
