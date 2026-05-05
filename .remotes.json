@@ -1,9 +1,0 @@
-[
-  {
-    "package": "shinychat",
-    "url": "https://github.com/posit-dev/shinychat",
-    "via": ["ellmer"],
-    "subdir": "pkg-r",
-    "from": "ellmer"
-  }
-]
