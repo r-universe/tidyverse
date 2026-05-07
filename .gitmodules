@@ -27,6 +27,10 @@
 [submodule "forcats"]
 	path = forcats
 	url = https://github.com/tidyverse/forcats
+[submodule "gargle"]
+	path = gargle
+	url = https://github.com/r-lib/gargle
+	registered = false
 [submodule "ggplot2"]
 	path = ggplot2
 	url = https://github.com/tidyverse/ggplot2
