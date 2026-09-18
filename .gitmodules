@@ -5,6 +5,10 @@
 [submodule "blob"]
 	path = blob
 	url = https://github.com/tidyverse/blob
+[submodule "datadict"]
+	path = datadict
+	url = https://github.com/tidyverse/data-dict
+	subdir = r
 [submodule "dbplyr"]
 	path = dbplyr
 	url = https://github.com/tidyverse/dbplyr
