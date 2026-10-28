@@ -2,12 +2,6 @@
   {
     "package": "gargle",
     "url": "https://github.com/r-lib/gargle",
-    "via": ["googledrive"],
-    "from": "googledrive"
-  },
-  {
-    "package": "gargle",
-    "url": "https://github.com/r-lib/gargle",
     "via": ["googlesheets4"],
     "from": "googlesheets4"
   }
