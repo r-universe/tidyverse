@@ -51,10 +51,6 @@
 [submodule "magrittr"]
 	path = magrittr
 	url = https://github.com/tidyverse/magrittr
-[submodule "mirai"]
-	path = mirai
-	url = https://github.com/r-lib/mirai
-	registered = false
 [submodule "modelr"]
 	path = modelr
 	url = https://github.com/tidyverse/modelr
